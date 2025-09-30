@@ -31,8 +31,7 @@ const Signin = () => {
       if (role === "admin") router.push("dashboard");
       else router.push("/");
     } catch (err: any) {
-      setError(err.message || "Sign-in failed");
-    }
+setError( "Email ou mot de passe incorrect");    }
   };
 
   return (
