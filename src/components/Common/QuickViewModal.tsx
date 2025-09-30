@@ -298,7 +298,7 @@ const QuickViewModal = () => {
                       ${product.discountedPrice}
                     </span>
                     <span className="font-medium text-dark-4 text-lg xl:text-2xl line-through">
-                      ${product.price}
+                      ${product.price+70}
                     </span>
                   </span>
                 </div>

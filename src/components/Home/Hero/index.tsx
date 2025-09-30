@@ -105,10 +105,10 @@ const Hero = () => {
                       </p>
                       <span className="flex items-center gap-3">
                         <span className="font-medium text-heading-5 text-red">
-                          $69
+                          $169
                         </span>
                         <span className="font-medium text-2xl text-dark-4 line-through">
-                          $99
+                          $259
                         </span>
                       </span>
                     </div>
